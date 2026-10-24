@@ -1,5 +1,20 @@
 # Chest X-Ray Image Classifier
 
+## Try the Model
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mlxdrr/Medical-Image-Classifier/blob/main/Test_Medical_Image_Classifier.ipynb)
+
+Click the badge above to open the interactive testing notebook in Google Colab.
+
+### Testing Instructions
+
+1. Open the notebook using the Colab badge.
+2. Run Cell 1 to download the trained model.
+3. Run Cell 2 to load the model.
+4. Run Cell 3 to upload a sample chest X-ray and generate a prediction.
+
+**Disclaimer:** This is an educational AI demonstration, not a medical diagnostic tool.
+
 ## Overview
 
 A machine-learning project that uses transfer learning to classify chest X-ray images into NORMAL and PNEUMONIA categories.
